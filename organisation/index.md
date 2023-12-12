@@ -10,7 +10,7 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Slinger.png" alt=""
+        <img src="/assets/images/organisation/Slinger.jpg" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
@@ -232,13 +232,13 @@ layout: organisation
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <h1 class="display-5">
-            Poster Chair
+            Organization and Administration Registration Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Fang.jpg" alt=""
+        <img src="/assets/images/organisation/Fang.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
