@@ -10,14 +10,29 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Slinger.png" alt=""
+        <img src="/assets/images/organisation/XiaoFeng.jpeg" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Slinger Jansen</h3>
+            <h3>XiaoFeng Wang</h3>
             <br>
-            Utrecht University, The Netherlands
+            Free University of Bozen-Bolzano, Italy
         </div>
+    </div>
+    <!--
+    <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/Pekka.jpeg" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Pekka Abrahamsson</h3>
+            <br>
+            University of Jyväskylä, Finland
+        </div>
+        </div>
+                -->
     </div>
         <hr class="my-4">
 <!-- ----------------------------------------------------------------------------------------------------------------------->
@@ -28,25 +43,25 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/siamak.jpg" alt=""
+        <img src="/assets/images/organisation/Noel.jpeg" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Siamak Farshidi</h3>
+            <h3>Noel Carroll</h3>
             <br>
-            Utrecht University, The Netherlands
+            University of Galway, Ireland
         </div>
     </div>
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/TBD.png" alt=""
+        <img src="/assets/images/organisation/Anh.jfif" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>TBD</h3>
+            <h3>Anh Nguyen-Duc</h3>
             <br>
-            TBD
+            University of South-Eastern Norway, Norway
         </div>
         </div>
     </div>
@@ -59,25 +74,25 @@ layout: organisation
         <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/rodrigo.jpg" alt=""
+        <img src="/assets/images/organisation/Luciana.bmp" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Rodrigo Pereira dos Santos</h3>
+            <h3>Luciana Zaina</h3>
             <br>
-            Universidade Federal do Rio de Janeiro, Brazil
+            Federal University of São Carlos, Brazil (UFSCar)
         </div>
         </div>
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Dron Khanna.png" alt=""
+        <img src="/assets/images/organisation/Abdullah.jpeg" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Dron Khanna</h3>
+            <h3>Abdullah Aldaeej</h3>
             <br>
-            Free University of Bozen-Bolzano, Italy
+            Imam Abdulrahman Bin Faisal University, Saudi Arabia
         </div>
     </div>
     </div>
@@ -203,7 +218,7 @@ layout: organisation
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Sponsorship Chair
+            Student Volunteer Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
@@ -213,9 +228,9 @@ layout: organisation
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>kate labunets</h3>
+            <h3>Usman Rafiq</h3>
             <br>
-           Utrecht University, The Netherlands
+           Free University of Bozen-Bolzano, Italy
         </div>
     </div>
     </div>
@@ -253,7 +268,7 @@ layout: organisation
         <div style="margin-top: 70px;">
             <h3>Marko Nakov</h3>
             <br>
-            Utrecht University, The Netherlands
+            Free University of Bozen-Bolzano, Italy
         </div>
     </div>
     </div>
