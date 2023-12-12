@@ -4,7 +4,7 @@ layout: importantdates
 
 <b style="font-size: 22px" id="CallForResearchPapers">Posters – Call for Submissions</b>
 
-The poster track invites researchers, practitioners, and PhD students working in the area of software-intensive business to submit a poster of their research. Posters are intended to stimulate face-to-face discussions among conference participants: reflection of the past studies, descriptions of current initiatives, visions for the future and new results in software-intensive business research and practice are welcome. Poster contributions may address any topic that fits within the ICSOB2022 topics of interests, as follows:
+The poster track invites researchers, practitioners, and PhD students working in the area of software-intensive business to submit a poster of their research. Posters are intended to stimulate face-to-face discussions among conference participants: reflection of the past studies, descriptions of current initiatives, visions for the future and new results in software-intensive business research and practice are welcome. Poster contributions may address any topic that fits within the ICSOB2024 topics of interests, as follows:
 
 <ul style="list-style: none;">
 <li style="margin-bottom: 6px">Digital Transformation</li>
@@ -19,14 +19,14 @@ The poster track invites researchers, practitioners, and PhD students working in
 <li style="margin-bottom: 6px">Emerging Industry Trends</li>
 </ul>
 
-The posters will be displayed all day long during the main conference (November 9-10, 2022) and at the last Industry session (November 11, 2022) co-located with <a href="https://www.sfscon.it/">SFScon</a>, allowing attendees to visit the posters at their convenience. However, authors will attend their posters only during the assigned Poster Session time frames (which will be published online when the final program is available).
+The posters will be displayed all day long during the main conference (November 9-10, 2024) and at the last Industry session (November 11, 2024) co-located with <a href="https://www.sfscon.it/">SFScon</a>, allowing attendees to visit the posters at their convenience. However, authors will attend their posters only during the assigned Poster Session time frames (which will be published online when the final program is available).
 
 <hr>
 <p>
 <b style="font-size: 18px">Submissions</b></p>
 In order to have a poster presented at the conference,  an extended abstract of up to four pages, including references, must be submitted for review by the specified deadline.  Poster submission will be reviewed by 2 members of the Program Committee via a single-blind reviewing process. The review is based on an extended abstract, which can contain smaller contributions, late breaking developments or in-progress work.
  
-The extended abstract must use the CEUR-ART one column template which is available here: <a href="/assets/download/CEURART.zip" target="_blank" download>http://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX) or <a href="/assets/download/CEUR-Template-1col.docx" target="_blank" download>http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a> (Word). All submissions should be made through EasyChair using the link: <a href="https://easychair.org/conferences/?conf=icsob2022" target="_blank">Easychair</a>.
+The extended abstract must use the CEUR-ART one column template which is available here: <a href="/assets/download/CEURART.zip" target="_blank" download>http://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX) or <a href="/assets/download/CEUR-Template-1col.docx" target="_blank" download>http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a> (Word). All submissions should be made through EasyChair using the link: <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">Easychair</a>.
 
 Participants of PhD retreat are invited to submit and present at the poster session to get more feedback from the conference attendees, without submitting the extended abstract. For those participants, they need to prepare for the poster (see the Guidelines) and may use the printing services (see the Poster Printing).
 
@@ -34,7 +34,7 @@ Participants of PhD retreat are invited to submit and present at the poster sess
 <p>
 <b style="font-size: 18px">Publication of Accepted Submissions
 </b></p>
-We are aiming to submit the ICSOB 2022 Companion Proceedings, including the poster abstracts to <a href="http://ceur-ws.org/" target="_blank">CEUR-WS.org</a> for online publication. Please note, there may be some restrictions regarding the volume of papers published via <a href="http://ceur-ws.org/" target="_blank">CEUR-WS.org</a> which may prevent the online publication of poster abstracts.
+We are aiming to submit the ICSOB 2024 Companion Proceedings, including the poster abstracts to <a href="http://ceur-ws.org/" target="_blank">CEUR-WS.org</a> for online publication. Please note, there may be some restrictions regarding the volume of papers published via <a href="http://ceur-ws.org/" target="_blank">CEUR-WS.org</a> which may prevent the online publication of poster abstracts.
 
 At least one author of each accepted submission must register for the conference and present the work during the poster session.
 
@@ -53,11 +53,11 @@ The best poster award will be presented during the main conference. Conference p
 <b style="font-size: 18px">Important Dates
 </b></p>
 <ul style="list-style: none;">
-<li style="color:red">Poster abstract submission deadline extended: <s>7 September 2022</s> 11 September 2022</li>
-<li style="color:red">Notification of acceptance extended: <s>15 September 2022</s> 21 September 2022</li>
-<li>Poster (print version) submission: October 31, 2022
+<li style="color:red">Poster abstract submission deadline extended: <s>7 September 2024</s> 11 September 2024</li>
+<li style="color:red">Notification of acceptance extended: <s>15 September 2024</s> 21 September 2024</li>
+<li>Poster (print version) submission: October 31, 2024
 </li>
-<li>Poster abstract camera ready submission: November 30, 2022
+<li>Poster abstract camera ready submission: November 30, 2024
 </li>
 </ul>
 <hr>
