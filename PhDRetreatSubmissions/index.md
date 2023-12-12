@@ -2,7 +2,7 @@
 layout: importantdates
 ---
 
-<img src="/assets/images/phdlocation.jpeg" alt="PhD Retreat" style="width:100%; margin-bottom: 30px">
+<img src="/assets/images/phdlocation.jpg" alt="PhD Retreat" style="width:100%; margin-bottom: 30px">
 <b style="font-size: 22px" id="CallForResearchPapers">PhD Retreat on Alps – Call for Submissions </b>
 
 The ICSOB 2022 PhD Retreat is an exciting one-day event that will happen on the beautiful Italian Alps. The retreat is designed to bring together PhD students who work on research related to software-intensive business. Additional details on the conference and our research topics are available <a href="https://icsob2022.github.io/" target="_blank">here</a>. The PhD Retreat provides a friendly and developmental environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and peers of PhD students in the same field.<br>
