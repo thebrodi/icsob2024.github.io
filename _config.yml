@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ICSOB 2022
+title: ICSOB 2024
 email: your-email@example.com
 description: The International Conference on Software Business (ICSOB) attracts both researchers and practitioners who are concerned with software-intensive business in different ways, and brings them together to share their findings and experiences from the field of software-intensive business.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -99,7 +99,7 @@ conference:
   navigation:
     logo:
       img: "logo.png"
-      url: "https://icsob2022.github.io/"
+      url: "https://icsob2024.github.io/"
     links:
       - name: Home
         relative_url: /
