@@ -124,120 +124,127 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/viktoria.jpg" alt=""
+        <img src="/assets/images/organisation/Sonja-Hyrynsalmi.jpg" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Viktoria Stray</h3>
+            <h3>Sonja Hyrynsalmi</h3>
             <br>
-            SINTEF, Norway
+            Lappeenranta–Lahti University of Technology, Finland
         </div>
     </div>
     </div>
         <hr class="my-4">
         <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Companion Proceedings Chair
+            Marketing Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/jorge.jpg" alt=""
+        <img src="/assets/images/organisation/Andrey.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Jorge Melegati</h3>
+            <h3>Andrey Saltan</h3>
             <br>
-            Free University of Bozen-Bolzano, Italy
+            Lappeenranta–Lahti University of Technology, Finland
         </div>
         </div>
     </div>
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Publicity Chair
+            Local Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Sonja.jpg" alt=""
+        <img src="/assets/images/organisation/TBD.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Sonja Hyrynsalmi</h3>
+            <h3>TBD</h3>
             <br>
-            LUT University, Finland
+            TBD
         </div>
     </div>
     </div>
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Industry Track Chairs
+           Awards Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/eduardo.jfif" alt=""
+        <img src="/assets/images/organisation/TBD.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Eduardo Guerra</h3>
+            <h3>TBD</h3>
             <br>
-            Free University of Bozen-Bolzano, Italy
-        </div>
-    </div>
-    <div style="flex: 33.33%; padding: 5px;">
-        <p class="lead">
-        <p class="lead"></p>
-        <img src="/assets/images/organisation/luca.jpeg" alt=""
-            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
-        </p>
-        <div style="margin-top: 70px;">
-            <h3>Luca Miotto</h3>
-            <br>
-            NOI Techpark Bolzano, Italy
+           TBD
         </div>
     </div>
     </div>
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Student Volunteer Chair
+            Special Issue Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Usman.png" alt=""
+        <img src="/assets/images/organisation/TBD.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Usman Rafiq</h3>
+            <h3>TBD</h3>
             <br>
-           Free University of Bozen-Bolzano, Italy
+           TBD
         </div>
     </div>
     </div>
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Local Organising Chair
+            Sponsorship Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Dron.jfif" alt=""
+        <img src="/assets/images/organisation/kate.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Dron Khanna</h3>
+            <h3>Kate Labunets</h3>
             <br>
-           Free University of Bozen-Bolzano
+           Utrecht University, The Netherlands
+        </div>
+    </div>
+    </div>
+        <hr class="my-4">
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+ <h1 class="display-5">
+            Organization and Administration Registration Chair
+        </h1>
+    <div style="display: flex;">
+    <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/Fang.jpg" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Fang Hou</h3>
+            <br>
+           Utrecht University, The Netherlands
         </div>
     </div>
     </div>
@@ -250,13 +257,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Marko.jpg" alt=""
+        <img src="/assets/images/organisation/Elena.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Marko Nakov</h3>
+            <h3>Elena Baninemeh</h3>
             <br>
-            Free University of Bozen-Bolzano, Italy
+            Utrecht University, The Netherlands
         </div>
     </div>
     </div>
