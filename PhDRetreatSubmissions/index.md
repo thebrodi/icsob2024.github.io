@@ -5,7 +5,7 @@ layout: importantdates
 <img src="/assets/images/phdlocation.jpg" alt="PhD Retreat" style="width:100%; margin-bottom: 30px">
 <b style="font-size: 22px" id="CallForResearchPapers">PhD Retreat on Alps – Call for Submissions </b>
 
-The ICSOB 2022 PhD Retreat is an exciting one-day event that will happen on the beautiful Italian Alps. The retreat is designed to bring together PhD students who work on research related to software-intensive business. Additional details on the conference and our research topics are available <a href="https://icsob2022.github.io/" target="_blank">here</a>. The PhD Retreat provides a friendly and developmental environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and peers of PhD students in the same field.<br>
+The ICSOB 2024 PhD Retreat is an exciting one-day event that will happen on the beautiful Italian Alps. The retreat is designed to bring together PhD students who work on research related to software-intensive business. Additional details on the conference and our research topics are available <a href="https://icsob2024.github.io/" target="_blank">here</a>. The PhD Retreat provides a friendly and developmental environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and peers of PhD students in the same field.<br>
 
 The main goals of the PhD Retreat are to provide an opportunity for PhD students to:
 
@@ -14,7 +14,7 @@ The main goals of the PhD Retreat are to provide an opportunity for PhD students
 <li>Interact with other PhD students and exchange ideas and suggestions.</li>
 <li>Receive constructive feedback on their current and future research.</li>
 <li>Develop a critical discussion about their work with experienced researchers.   </li>
-<li>Present their work as a poster at the ICSOB 2022 poster session.</li>
+<li>Present their work as a poster at the ICSOB 2024 poster session.</li>
 <li>Build your research network and have fun! </li>
 </ul><br>
 The PhD Retreat will take place at a beautiful location on the <a href="https://www.ritten.com/en/highplateau/highlight.html" target="_blank">Italian Alps - Renon mountain</a>, which is at the very heart of South Tyrol, above the region’s capital city Bolzano. The retreat will be hosted by <a href="https://www.hdf.it/de/" target="_blank">“Haus der Familie”</a>, a retreat center that is built for hosting courses and community events. It is right on the path of the famous “Freud Promenade”, the forest trail named after the famous psychologist Dr. Sigmund Freud, who spent his holidays in summer 1911 in a nearby hotel. Therefore, in addition to the technical sessions, the PhD retreat participants will have the opportunity to explore the beautiful mountains, walk on the Freud Promenade, and explore the tranquility they have to offer.
@@ -35,9 +35,9 @@ We welcome two categories of submission:
 <p>
 <b style="font-size: 18px">Important dates</b></p>
 <ul style="list-style: none;">
-        <li style="color:red">Deadline for submissions extended: <s>5 September 2022</s> 11 September 2022</li>
-        <li style="color:red">Notification of acceptance extended: <s>15 September 2022</s> 16 September 2022</li>
-        <li>Camera-ready submission: 30 November 2022</li>
+        <li style="color:red">Deadline for submissions extended: <s>5 September 2024</s> 11 September 2024</li>
+        <li style="color:red">Notification of acceptance extended: <s>15 September 2024</s> 16 September 2024</li>
+        <li>Camera-ready submission: 30 November 2024</li>
 </ul>
 <hr>
 <p>
@@ -61,7 +61,7 @@ The PhD Retreat submission must consist of two elements:
 </li>
 </ul>
 To address the items above, we suggest the following structure: Problem, Knowledge Gap, Methodology, Timeline, Preliminary results (if any), and Expected contributions.<br><br>
-Students interested in participating in the PhD retreat must submit a short paper (5-9 pages) using the CEUR-ART one column template which is available here: <a href="\assets\download\CEURART.zip" download>http://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX) or <a href="\assets\download\CEUR-Template-1col.docx" download>http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a> (Word). We are aiming to submit the ICSOB 2022 Companion Proceedings, including the PhD retreat papers to <a href="http://CEUR-WS.org" target="_blank">CEUR-WS.org</a> for online publication. Please note, there may be some restrictions regarding the volume of papers published via <a href="http://CEUR-WS.org" target="_blank">CEUR-WS.org</a> which may prevent the online publication of PhD retreat papers.<br>
+Students interested in participating in the PhD retreat must submit a short paper (5-9 pages) using the CEUR-ART one column template which is available here: <a href="\assets\download\CEURART.zip" download>http://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX) or <a href="\assets\download\CEUR-Template-1col.docx" download>http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a> (Word). We are aiming to submit the ICSOB 2024 Companion Proceedings, including the PhD retreat papers to <a href="http://CEUR-WS.org" target="_blank">CEUR-WS.org</a> for online publication. Please note, there may be some restrictions regarding the volume of papers published via <a href="http://CEUR-WS.org" target="_blank">CEUR-WS.org</a> which may prevent the online publication of PhD retreat papers.<br>
 All submissions must be written in English.
 <hr>
 <p>
@@ -75,7 +75,7 @@ All submissions will be peer-reviewed by the Program Committee. The main evaluat
 <hr>
 <p>
 <b style="font-size: 18px">Presentation</b></p>
-Accepted submissions will have the opportunity to present their work in the PhD Retreat, and to have camera-ready of their papers published in the post-conference proceedings. The camera-ready will be sent after the conference (deadline Nov 30, 2022), so that participants have the chance to polish their paper based on the feedback they got from the conference. 
+Accepted submissions will have the opportunity to present their work in the PhD Retreat, and to have camera-ready of their papers published in the post-conference proceedings. The camera-ready will be sent after the conference (deadline Nov 30, 2024), so that participants have the chance to polish their paper based on the feedback they got from the conference. 
 <br><br>
 Participants (of the accepted submissions) will present their research in the conference. Each participant has a max of 10 minutes to present, and 5 min for answering questions. There will be networking breaks after blocks of  presentations, where participants can get feedback and comments about their research in a more relaxed QA session. 
 <br><br>
