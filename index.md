@@ -4,13 +4,6 @@ layout: home
 
 <br/>
 
-<div style="text-align:center">
-<a href="https://link.springer.com/book/10.1007/978-3-031-20706-8" target="_blank" style="text-decoration: none; font-size:25px">Conference proceedings</a>
-</div>
-
-<div style="text-align:center">
-<a href="https://ceur-ws.org/Vol-3316/" target="_blank" style="text-decoration: none; font-size:25px">Conference Companion proceedings</a>
-</div>
 
 <br>
 
