@@ -10,13 +10,13 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/XiaoFeng.jpeg" alt=""
+        <img src="/assets/images/organisation/Slinger.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>XiaoFeng Wang</h3>
+            <h3>Slinger Jansen</h3>
             <br>
-            Free University of Bozen-Bolzano, Italy
+            Utrecht University, The Netherlands
         </div>
     </div>
     <!--
@@ -43,25 +43,25 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Noel.jpeg" alt=""
+        <img src="/assets/images/organisation/siamak.jpg" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Noel Carroll</h3>
+            <h3>Siamak Farshidi</h3>
             <br>
-            University of Galway, Ireland
+            University of Jyväskylä, Finland
         </div>
     </div>
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Anh.jfif" alt=""
+        <img src="/assets/images/organisation/TBD.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Anh Nguyen-Duc</h3>
+            <h3>TBD</h3>
             <br>
-            University of South-Eastern Norway, Norway
+            TBD
         </div>
         </div>
     </div>
