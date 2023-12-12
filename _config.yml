@@ -135,16 +135,7 @@ conference:
         relative_url: /venue/
       - name: Travel information
         relative_url: /location/
-      - name: Series
-        menu:
-          - name: 2022 (current)
-            disabled: true
-          - name: 2021
-            relative_url: "https://icsob2021.org/"
-          - name: 2020
-            relative_url: "https://icsob.wordpress.com/"
-          - name: 2019
-            relative_url: "b2019.wordpress.com/"
+
 
   # Link Preview for Sharing
   link_preview:
@@ -248,5 +239,4 @@ conference:
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
 
-# Google Analytics
-google_analytics: G-MX84KBVWX7
+
