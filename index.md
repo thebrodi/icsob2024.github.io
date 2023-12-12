@@ -30,6 +30,10 @@ The theme of ICSOB2024 is <b>Software for Digital Transformation</b>. Research a
     </h1>
 <img src="/assets/images/Program123.png" alt="">
 
+<br>
+The program will be provided soon.
+<hr>
+
 <hr>
 
 <div>
