@@ -25,15 +25,15 @@ The topics that ICSOB welcomes, but not limited to, are listed below:
 <b style="font-size: 18px">Journal Special Section</b>:<br> A selection of best papers will be invited to submit extended versions for tentative publication in a Special Section of a high-quality software engineering journal (details to follow).
 <hr>
 <b style="font-size: 18px" id="EasyChairPaperSubmission">EasyChair Paper Submission</b><br>
-We invite you to submit your papers to one of these tracks via the <a href="https://easychair.org/conferences/?conf=icsob2022" target="_blank">EasyChair submission system</a>.
+We invite you to submit your papers to one of these tracks via the <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair submission system</a>.
 <hr>
 <b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
 <ul style="list-style: none;">
-<li>Abstract submission (OPTIONAL): 22 July 2022</li>
-<li>Full submission deadline: 5 August 2022</li>
-<li style="color:red">Notification of acceptance extended: <s>31 August 2022</s> 2 September 2022</li>
-<li>Camera-ready submission: 13 September 2022</li>
-<li>Main conference date: 09-10 November 2022</li>
+<li>Abstract submission (OPTIONAL): 22 July 2024</li>
+<li>Full submission deadline: 5 August 2024</li>
+<li style="color:red">Notification of acceptance extended: <s>31 August 2024</s> 2 September 2024</li>
+<li>Camera-ready submission: 13 September 2024</li>
+<li>Main conference date: 09-10 November 2024</li>
 </ul>
 <hr>
 Papers should be submitted in PDF format. The results described must be unpublished and must not be under review elsewhere.
