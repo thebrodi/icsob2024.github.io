@@ -11,7 +11,7 @@ The International Conference on Software Business (ICSOB) attracts both research
 
 <hr>
 
-<b class="display-4" style="text-align: center;">Theme of the year: Ethics, Equity, and Sustainability in Software Business </b>
+<b class="display-4" style="text-align: center;">Theme : Ethics, Equity, and Sustainability in Software Business </b>
 
 In the ever-evolving landscape of software business, a crucial paradigm shift is underway, emphasizing the ethical, equitable, and sustainable aspects of technology development and deployment. Ethical considerations in software design and utilization have become paramount, focusing on responsible AI, user privacy, and the societal impact of technology. Software producing organizations and researchers are recognizing the importance of equity, striving to address biases in algorithms and ensuring inclusivity in software accessibility. Additionally, sustainability is emerging as a core principle, with an emphasis on reducing the environmental footprint of software development and operations. The software industry is moving towards a future where technological advancements are not only innovative but also ethically sound, inclusive, and environmentally responsible, fostering a harmonious integration of technology into our societies.
 
