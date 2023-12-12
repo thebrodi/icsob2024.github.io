@@ -74,60 +74,47 @@ layout: organisation
         <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Luciana.bmp" alt=""
+        <img src="/assets/images/organisation/rodrigo.jpg" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Luciana Zaina</h3>
+            <h3>Rodrigo Pereira dos Santos</h3>
             <br>
-            Federal University of São Carlos, Brazil (UFSCar)
+            Universidade Federal do Rio de Janeiro, Brazil 
         </div>
         </div>
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Abdullah.jpeg" alt=""
+        <img src="/assets/images/organisation/Dron Khanna.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>Abdullah Aldaeej</h3>
+            <h3>Dron Khanna</h3>
             <br>
-            Imam Abdulrahman Bin Faisal University, Saudi Arabia
+            Free University of Bozen-Bolzano, Italy
         </div>
     </div>
     </div>
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-      Poster Chairs
-    </h1>
+        Poster Chair
+        </h1>
     <div style="display: flex;">
-      <div style="flex: 33.33%; padding: 5px;">
+    <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/Henry.jpg" alt=""
-          style="padding: 20px; float: left; height: 200px; border-radius: 100%;" />
+        <img src="/assets/images/organisation/edona.png" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-          <h3>Henry Edison</h3>
-          <br />
-          Blekinge Institute of Technology, Sweden
+            <h3>Edona Elshan</h3>
+            <br>
+            Vrije Universiteit Amsterdam, The Netherlands
         </div>
-      </div>
-      <div style="flex: 33.33%; padding: 5px;">
-        <p class="lead">
-        <p class="lead"></p>
-        <img src="/assets/images/organisation/Dimitri.jfif" alt=""
-          style="padding: 20px; float: left; height: 200px; border-radius: 100%;" />
-        </p>
-        <div style="margin-top: 70px;">
-          <h3>Dimitri Petrik</h3>
-          <br />
-          University of Stuttgart, Germany
-        </div>
-      </div>
     </div>
-    <hr class="my-4" />
+    </div>
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
             Proceedings Chair
