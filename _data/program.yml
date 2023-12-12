@@ -1,7 +1,7 @@
 days:
   - name: Tuesday
     abbr: Tue
-    date: 2022-11-08
+    date: 2024-11-08
     rooms:
       - name: Room A
         talks:
@@ -13,11 +13,11 @@ days:
             time_end: '21:00'
   - name: Wednesday
     abbr: Wed
-    date: 2022-11-09
+    date: 2024-11-09
     rooms:
       - name: Room A
         talks:
-          - name: 'Welcome to ICSOB 2022 & Keynote 1'
+          - name: 'Welcome to ICSOB 2024 & Keynote 1'
             time_start: '8:30'
             time_end: '10:00'
           - name: 'An Instrument for Evaluating Data-driven Traffic Management Applications in the Context of Digital Transformation Towards a Smart City'
@@ -75,7 +75,7 @@ days:
             time_end: '15:45'  
   - name: Thursday
     abbr: Thu
-    date: 2022-11-10
+    date: 2024-11-10
     rooms:
       - name: Room A
         talks:
@@ -138,7 +138,7 @@ days:
             time_end: '15:30'   
   - name: Friday
     abbr: Fri
-    date: 2022-11-11
+    date: 2024-11-11
     rooms:
       - name: Room A
         talks:
