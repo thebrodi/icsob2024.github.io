@@ -19,9 +19,6 @@ The theme of ICSOB2024 is <b>Ethics, Equity, and Sustainability in Software Busi
 
 <hr>
 
-
-<hr>
-
 <div>
     <h1 class="display-4" style="text-align: center;">
         Important Dates
