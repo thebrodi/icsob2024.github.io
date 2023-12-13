@@ -2,9 +2,6 @@
 layout: location
 ---
 
-<iframe
-    src="<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19613.57673055333!2d5.156859911208415!3d52.08524379729993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66884cdb62d37%3A0x2c6fbf563ec5ec8a!2sUtrecht%20Science%20Park!5e0!3m2!1sen!2snl!4v1702473911160!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 
 <div class="col-lg8 mx-auto">
     <h1 class="display-3" style="text-align: center;">
