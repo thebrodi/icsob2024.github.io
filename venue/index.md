@@ -8,7 +8,7 @@ layout: venue
     </h1>
     <figure>
         <img src="/assets/images/kbg.jpg" alt="" style="max-width: 100%;
-        height: 500px; width: 500px;">
+        height: auto; width: 500px;">
     </figure>
     <hr>
     <h1 class="display-5" style="text-align: center;">
@@ -16,7 +16,7 @@ layout: venue
     </h1>
     <figure>
         <img src="/assets/images/center.jpg" alt="" style="max-width: 100%;
-        height: 500px; width: 500px;">
+        height: auto; width: 500px;">
     </figure>
     <hr>
     <h1 class="display-5" style="text-align: center;">
@@ -24,7 +24,7 @@ layout: venue
     </h1>
     <figure>
         <img src="/assets/images/sciencepark.jpg" alt="" style="max-width: 100%;
-        height: auto;">
+        height: auto; width: 500px;">
     </figure>
         <hr>
     <h1 class="display-5" style="text-align: center;">
@@ -32,6 +32,6 @@ layout: venue
     </h1>
     <figure>
         <img src="/assets/images/utrecht.png" alt="" style="max-width: 100%;
-        height: auto;">
+        height: auto; width: 500px;">
     </figure>
 </div>
