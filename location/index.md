@@ -3,35 +3,25 @@ layout: location
 ---
 
 <iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2747.4907416690485!2d11.33040341579213!3d46.4785943732039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47829c34410cbd5b%3A0x65f19ec400fde7e2!2sNOI%20Techpark%20Alto%20Adige!5e0!3m2!1sit!2sit!4v1649161812807!5m2!1sit!2sit"
+    src="<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19613.57673055333!2d5.156859911208415!3d52.08524379729993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66884cdb62d37%3A0x2c6fbf563ec5ec8a!2sUtrecht%20Science%20Park!5e0!3m2!1sen!2snl!4v1702473911160!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
     width="1140" height="450" style="border:0;" allowfullscreen="" loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 <div class="col-lg8 mx-auto">
     <h1 class="display-3" style="text-align: center;">
-        How to get to Bolzano
+        How to get to Utrecht Science Park
     </h1>
-    <p>Bolzano is located in the center of the Alps, next to the main connection between Italy and Central/Northern
-        Europe at the Brenner pass. </p>
+    <p>It takes an average of 39m to travel by train from Schiphol Airport to Utrecht Centraal, a distance of approximately 34 km. There are normally 84 trains per day traveling from Schiphol Airport to Utrecht Central Station and tickets start from €11.20. Utrecht Science Park is Utrecht University’s largest campus and is located in the east of the city. Utrecht Science Park houses the greater part of the university </p>
     <p class="lead">
-    <p><b>From Verona:</b>
+    <p><b>Bus:</b>
     <ul style="list-style: none;">
-        <li>the “Valerio Catullo Airport” airport of Verona is connected to the train station of Verona Porta Nuova, via
-            the <b><a href="https://www.aeroportoverona.it/en/transport/aerobus.html" target="_blank">Aerobus
-                    199</a></b> service. From
-            Verona
-            Porta Nuova station, Bolzano is reachable with a single train in around
-            2 hours. See timetables and book tickets on <b><a href="https://www.trenitalia.com/"
-                    target="_blank">Trenitalia</a></b> or
-            <b><a href="https://www.italotreno.it" target="_blank">Italo</a></b>. Alternatively, Alto Adige Südtirol Bus
-            offers airport shuttle services between the airport and Bolzano. Tickets cost 50€ - 75€. Similar offers are
-            by <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>.
+        <li>Nearest bus stop: <b><a href="[https://www.aeroportoverona.it/en/transport/aerobus.html](https://www.google.com/maps/place/Utrecht,+Botanische+Tuinen/@52.08587,5.1655351,17z/data=!3m1!4b1!4m6!3m5!1s0x47c668997e0b002b:0xd2c61415dfef6d5c!8m2!3d52.08587!4d5.16811!16s%2Fg%2F1hm1yp0p6?entry=ttu)" target="_blank">Botanical Gardens</a></b> 
         </li>
     </ul>
     </p>
     </p>
-    <p><b>From Milan:</b></p>
+    <p><b>Tram:</b></p>
     <ul style="list-style: none;">
         <li>From Milano Malpensa airport you can easily reach Milano Centrale, via <b><a
                     href="https://www.malpensaexpress.it/en/" target="_blank">MalpensaExpress</a></b>. The Milano Linate
@@ -54,7 +44,7 @@ layout: location
             or <b><a href="http://www.orioshuttle.com/_eng/" target="_blank">OrioShuttle</a></b>), and
             take a train afterwords.</li>
     </ul>
-    <p><b>From Venice:</b></p>
+    <p><b>Train:</b></p>
     <ul style="list-style: none;">
         <li>Venice has two airports: Venezia Marco Polo and Treviso Canova. Both airports are connected through the
             regular bus services to the nearest train stations: Venezia Mestre and Venezia Santa Lucia. From the train
