@@ -8,7 +8,7 @@ layout: venue
     </h1>
     <figure>
         <img src="/assets/images/kbg.jpg" alt="" style="max-width: 100%;
-        height: 100px; width: 100px;">
+        height: 500px; width: 500px;">
     </figure>
     <hr>
     <h1 class="display-5" style="text-align: center;">
@@ -16,7 +16,7 @@ layout: venue
     </h1>
     <figure>
         <img src="/assets/images/center.jpg" alt="" style="max-width: 100%;
-        height: 100px; width: 100px;">
+        height: 500px; width: 500px;">
     </figure>
     <hr>
     <h1 class="display-5" style="text-align: center;">
