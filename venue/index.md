@@ -1,11 +1,11 @@
 ---
 layout: venue
 ---
-img {
+.img {
     float: left;
     width:  100px;
     height: 100px;
-    object-fit: cover;
+    background-size: cover;
 }
 
 <div>
