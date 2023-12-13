@@ -111,6 +111,8 @@ conference:
             relative_url: "/PhDRetreatSubmissions"
           - name: Posters
             relative_url: "/Posters"
+          - name: Awards
+            relative_url: "/Awards"
       - name: Program 
         menu:
           - name: Program Schedule
