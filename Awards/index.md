@@ -3,7 +3,6 @@ layout: importantdates
 ---
 
 <div>
-<b style="font-size: 22px" id="CallForResearchPapers">Awards – Call for Submissions</b>
 
 The awards are given to the most outstanding researchers of the conference under four categories. We will include various categories of awards related to publishing research papers as follows:
 
