@@ -112,11 +112,9 @@ conference:
           - name: Posters
             relative_url: "/Posters"
           - name: Awards
-            relative_url: /Awards/
+            relative_url: /venue/
       - name: Program 
-        menu:
-          - name: Program Schedule
-            relative_url: /program/
+        relative_url: /program/
       - name: Important Dates
         relative_url: /importantdates/
       - name: Registration
