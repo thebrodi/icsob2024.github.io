@@ -1,6 +1,12 @@
 ---
 layout: venue
 ---
+img {
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
 
 <div>
     <h1 class="display-5" style="text-align: center;">
@@ -26,9 +32,7 @@ layout: venue
         <img src="/assets/images/sciencepark.jpg" alt="" style="max-width: 100%;
         height: auto;">
     </figure>
-    <h6>In year 2022, ICSOB conference will be held in Bolzano, at the NOI Techpark Alto Adige.
-        </h6>
-    <hr>
+        <hr>
     <h1 class="display-5" style="text-align: center;">
         Social Dinner Venue
     </h1>
