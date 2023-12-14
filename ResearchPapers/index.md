@@ -10,16 +10,14 @@ The topics that ICSOB welcomes, but not limited to, are listed below:
 
 <ul style="list-style: none;">
 <li>
-<b>Digital Transformation</b> – initiating deep structural changes; managing digital transformation processes; large-scale transformation; sustaining software productivity and performance throughout a transformation process; development and implementation strategies; corporate and entrepreneurial culture; development of digital competencies.</li><br>
-<li><b>Responsible Software</b> – responsible software for digital transformation; responsible enterprise; enterprise modeling; information and communication technology; sustainability; socio-environmental auditing; sustainability of software products; sustainable software development; responsible management in software development and operation; undesirable/unintended use of software business; societal issues of current and emerging software business developments.</li><br>
-<li><b>Software Platforms, Ecosystems and App Stores</b> – open digital platforms; open innovation; app store architectures; application programming interface (API) architectures; digital and data platforms; software ecosystems health; ecosystem orchestration and governance; app economy; actors and network analysis; incentives and ecosystem-based business models.</li><br>
-<li><b>Software Business Development</b> – developing and introducing new digital transformation business models; business modeling for software products and services; effective business model change and improvement; economics of software companies; mergers and acquisitions; internationalization, outsourcing and other strategies for realizing new business models.</li><br>
-<li><b>Legal Issues</b> – legal software-related implications for digital transformation, licensing, intellectual property and patents aspects and other legal aspects associated with software business, cybersecurity, privacy, and security.</li><br>
-<li><b>Software Startup</b> – lean startup for digital transformation; environment success factors; entrepreneurial process in software development; novel software startup processes; disruptive innovation and adoption; establishing new competence; risk management; managing startup growth.</li><br>
-<li><b>Citizen Development</b> – low-code/no-code (LCNC) platforms and initiatives for digital transformation; empowering non-technical users; role of citizen developers; new business models; governance; business processes; hyper-agile development; LCNC analytics; barriers, challenges, and enablers for citizen development.</li><br>
-<li><b>Engineering and Management</b> – software product management for digital transformation; project portfolio management; life-cycle perspective; continuous delivery; agile development; technical debt; platform governance; digital platforms; value co-creation.</li><br>
-<li><b>Human Factors</b> – education and training; human value morale, ethics and beliefs; human-centered design; ethical software engineering; artificial intelligence (AI) risks and ethics; transparency; user interaction with algorithms; algorithm aversion; algorithm appreciation.</li><br>
-<li><b>Emerging Industry Trends</b> – emergence of new software business technologies (e.g., AI, big-data analytics, blockchain, cloud computing) and infrastructures (e.g., digital platforms and ecosystems); novel value-creation processes and work practices (e.g., IT consumerization, resource sharing); games and gamification; software business education; disruptive trends in software business; the future of software business.</li>
+<b>topic1</b> – TBD</li><br>
+<li><b>topic2</b> – TBD</li><br>
+<li><b>Topic3</b> – TBD</li><br>
+<li><b>Topic4</b> – TBD</li><br>
+<li><b>Topic5</b> – TBD</li><br>
+<li><b>Topic6</b> – TBD</li><br>
+<li><b>Topic7</b> – TBD</li><br>
+<li><b>Topic8</b> – TBD</li>
 </ul>
 <hr>
 <b style="font-size: 18px">Journal Special Section</b>:<br> A selection of best papers will be invited to submit extended versions for tentative publication in a Special Section of a high-quality software engineering journal (details to follow).
@@ -29,11 +27,11 @@ We invite you to submit your papers to one of these tracks via the <a href="http
 <hr>
 <b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
 <ul style="list-style: none;">
-<li>Abstract submission (OPTIONAL): 22 July 2024</li>
-<li>Full submission deadline: 5 August 2024</li>
-<li style="color:red">Notification of acceptance extended: <s>31 August 2024</s> 2 September 2024</li>
-<li>Camera-ready submission: 13 September 2024</li>
-<li>Main conference date: 09-10 November 2024</li>
+<li>Abstract submission (OPTIONAL): TBD</li>
+<li>Full submission deadline: TBD</li>
+<li style="color:red">Notification of acceptance extended: <s>31 August 2024</s> TBD</li>
+<li>Camera-ready submission: TBD</li>
+<li>Main conference date: TBD</li>
 </ul>
 <hr>
 Papers should be submitted in PDF format. The results described must be unpublished and must not be under review elsewhere.
