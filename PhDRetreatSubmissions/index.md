@@ -17,7 +17,7 @@ The main goals of the PhD Retreat are to provide an opportunity for PhD students
 <li>Present their work as a poster at the ICSOB 2024 poster session.</li>
 <li>Build your research network and have fun! </li>
 </ul><br>
-The PhD Retreat will take place at a beautiful location on the <a href="https://www.ritten.com/en/highplateau/highlight.html" target="_blank">Italian Alps - Renon mountain</a>, which is at the very heart of South Tyrol, above the region’s capital city Bolzano. The retreat will be hosted by <a href="https://www.hdf.it/de/" target="_blank">“Haus der Familie”</a>, a retreat center that is built for hosting courses and community events. It is right on the path of the famous “Freud Promenade”, the forest trail named after the famous psychologist Dr. Sigmund Freud, who spent his holidays in summer 1911 in a nearby hotel. Therefore, in addition to the technical sessions, the PhD retreat participants will have the opportunity to explore the beautiful mountains, walk on the Freud Promenade, and explore the tranquility they have to offer.
+The PhD Retreat will take place at a beautiful location on the Utrecht University Hall. This Academy Building is the ceremonial heart of Utrecht University. The building is used for academic ceremonies and it is a house for debate, lectures and conferences.
 <hr>
 <p>
 <b style="font-size: 18px">Targeted participants</b></p>
@@ -35,9 +35,9 @@ We welcome two categories of submission:
 <p>
 <b style="font-size: 18px">Important dates</b></p>
 <ul style="list-style: none;">
-        <li style="color:red">Deadline for submissions extended: <s>5 September 2024</s> 11 September 2024</li>
-        <li style="color:red">Notification of acceptance extended: <s>15 September 2024</s> 16 September 2024</li>
-        <li>Camera-ready submission: 30 November 2024</li>
+        <li>Deadline for submissions extended: TBD</li>
+        <li>Notification of acceptance extended: TBD</li>
+        <li>Camera-ready submission: TBD</li>
 </ul>
 <hr>
 <p>
