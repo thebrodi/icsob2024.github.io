@@ -5,7 +5,7 @@ layout: importantdates
 <img src="/assets/images/phdlocation.jpg" alt="PhD Retreat" style="width:100%; margin-bottom: 30px">
 <b style="font-size: 22px" id="CallForResearchPapers">PhD Retreat on Alps – Call for Submissions </b>
 
-The ICSOB 2024 PhD Retreat is an exciting one-day event that will happen on the beautiful Italian Alps. The retreat is designed to bring together PhD students who work on research related to software-intensive business. Additional details on the conference and our research topics are available <a href="https://icsob2024.github.io/" target="_blank">here</a>. The PhD Retreat provides a friendly and developmental environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and peers of PhD students in the same field.<br>
+The ICSOB 2024 PhD Retreat is an exciting one-day event that will happen on the Utrecht University Hall. This Academy Building is the ceremonial heart of Utrecht University. The building is used for academic ceremonies and it is a house for debate, lectures and conferences. The retreat is designed to bring together PhD students who work on research related to software business. The PhD Retreat provides a friendly and developmental environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and peers of PhD students in the same field.<br>
 
 The main goals of the PhD Retreat are to provide an opportunity for PhD students to:
 
@@ -17,7 +17,7 @@ The main goals of the PhD Retreat are to provide an opportunity for PhD students
 <li>Present their work as a poster at the ICSOB 2024 poster session.</li>
 <li>Build your research network and have fun! </li>
 </ul><br>
-The PhD Retreat will take place at a beautiful location on the Utrecht University Hall. This Academy Building is the ceremonial heart of Utrecht University. The building is used for academic ceremonies and it is a house for debate, lectures and conferences.
+
 <hr>
 <p>
 <b style="font-size: 18px">Targeted participants</b></p>
