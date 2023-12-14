@@ -29,7 +29,7 @@ We invite you to submit your papers to one of these tracks via the <a href="http
 <ul style="list-style: none;">
 <li>Abstract submission (OPTIONAL): TBD</li>
 <li>Full submission deadline: TBD</li>
-<li style="color:red">Notification of acceptance extended: TBD</li>
+<li>Notification of acceptance: TBD</li>
 <li>Camera-ready submission: TBD</li>
 <li>Main conference date: TBD</li>
 </ul>
