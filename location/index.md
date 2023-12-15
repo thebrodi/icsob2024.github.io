@@ -7,7 +7,7 @@ layout: location
     <h1 class="display-4" style="text-align: center;">
         Traveling Tips
     </h1>
-    <p>Utrecht can be reached by flying to Amsterdam Schiphol Airport (AMS). It takes an average of 39 minutes to travel by train from Schiphol Airport to Utrecht Central, a distance of approximately 34 km. There are normally 84 trains per day traveling from Schiphol Airport to Utrecht Central Station and tickets start from €11.20. </p>
+    <p>Utrecht is conveniently accessible via air travel to Amsterdam Schiphol Airport (AMS). The train journey from Schiphol Airport to Utrecht Central, covering an approximate distance of 34 km, takes an average of 35 minutes. The train service operates from early morning, with the first train departing at 0:08, until late at night, with the last train departing at 23:57. Notably, there are 84 trains on this route each day, providing ample options for transportation. Tickets for this route start at €11.20.</p>
     <p>This conference will be held in two locations: 
         <li>The main conference will take place in Utrecht Science Park.</li>
         <li>The PhD retreat will take place in Utrecht University Hall.</li>
