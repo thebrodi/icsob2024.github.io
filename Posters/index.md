@@ -42,7 +42,7 @@ Demonstrations are intended to showcase software business-related topics through
 
 Proposals are submitted as extended abstracts. The page limit is four (4) pages, including references.
 
-Use the CEUR-ART one-column template for submissions. Templates are available <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip" target="_blank">(LaTeX)</a>, <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx" target="_blank">(LaTeX)</a>.
+Use the CEUR-ART one-column template for submissions. Templates are available <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip" target="_blank">(LaTeX)</a>, <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx" target="_blank">(Word)</a>.
 
 All proposals are submitted through <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair</a>.
 
