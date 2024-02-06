@@ -4,37 +4,51 @@ layout: importantdates
 
 <b style="font-size: 22px" id="CallForResearchPapers">Call for Research Paper Submissions</b>
 
-We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for original work describing novel approaches to software business for software products and services within a digital transformation context. Submissions can be: (i) <b>full research papers</b> (maximum 15 pages), (ii) <b>short papers</b> (maximum 6 pages) including research-in-progress papers, roadmap papers, or position and opinion papers, and (iii) <b>practice papers</b> (maximum 6 pages) reporting industry experience. Papers should provide insights on and/or industry case studies on digital transformation and software business, software products, practices, and principles.
+We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for original work describing novel approaches to Ethics, Equity, and Sustainability in Software Business. Submissions can be: (i) <b>Full Research Papers</b> (up to 15 pages) for detailed studies and analyses of novel approaches in the software business, (ii) <b>Short Position and Practice Papers</b> (We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for original work describing novel approaches to Ethics, Equity, and Sustainability in Software Business. Submissions can be: (i) <b>Full Research Papers</b> (up to 15 pages) for detailed studies and analyses of novel approaches in the software business, and (ii) <b>Short Position and Practice Papers</b> (maximum 6 pages) for industry insights, case studies, artifacts, and explorations of new areas. 
 
 The topics that ICSOB welcomes, but not limited to, are listed below:
 
 <ul style="list-style: none;">
-<li>
-<b>topic1</b> – TBD</li><br>
-<li><b>topic2</b> – TBD</li><br>
-<li><b>Topic3</b> – TBD</li><br>
-<li><b>Topic4</b> – TBD</li><br>
-<li><b>Topic5</b> – TBD</li><br>
-<li><b>Topic6</b> – TBD</li><br>
-<li><b>Topic7</b> – TBD</li><br>
-<li><b>Topic8</b> – TBD</li>
-</ul>
+            <li>Ethics in Software Product Management and Development</li>
+            <li>Equity, Diversity and Inclusion in Software Ecosystems, Digital Services, Systems, and Digital Transformation</li>
+            <li>Transparency and Trustability in Software Business</li>
+            <li>Ethical Issues in Emerging Software Technologies (e.g., Blockchain, Generative AI, …)</li>
+            <li>Emerging Technologies and Sustainability in Software Business</li>
+            <li>Sustainable Practices in Software Ecosystems, Platforms, and Business Models</li>
+            <li>Ethical Considerations in Software Business Development</li>
+            <li>Startups, Entrepreneurship, and New Ventures with a Focus on Equity and Sustainability</li>
+            <li>Human-Centered Design and Ethical Software Engineering</li>
+            <li>Empowering Equality and Inclusivity in Software Development</li>
+            <li>Sustainability Metrics and Measurement</li>
+            <li>Decision-making in Software Engineering (design decisions in software architecture, technology selection, ...)</li>
+        </ul>   
+
 <hr>
-<b style="font-size: 18px">Journal Special Section</b>:<br> A selection of best papers will be invited to submit extended versions for tentative publication in a Special Section of a high-quality software engineering journal (details to follow).
-<hr>
-<b style="font-size: 18px" id="EasyChairPaperSubmission">EasyChair Paper Submission</b><br>
-We invite you to submit your papers to one of these tracks via the <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair submission system</a>.
-<hr>
-<b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
+<b style="font-size: 18px">Submission Process and Guidelines:</b>:
 <ul style="list-style: none;">
-<li>Abstract submission (OPTIONAL): TBD</li>
-<li>Full submission deadline: TBD</li>
-<li>Notification of acceptance: TBD</li>
-<li>Camera-ready submission: TBD</li>
-<li>Main conference date: TBD</li>
-</ul>
+            <li>All submissions must be original, unpublished, and not considered elsewhere.
+</li>
+            <li>Papers should adhere to Springer’s LNBIP/LNCS format and be anonymized for double-blind review.
+</li>
+            <li>Papers can be submitted through our dedicated <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair submission system</a>.
+</li>
+  </ul>
 <hr>
-Papers should be submitted in PDF format. The results described must be unpublished and must not be under review elsewhere.
+
+<b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
+<p class="lead">
+    <p><b>Full Research Papers, Short Position and Practice Papers:</b>
+    <ul style="list-style: none;">
+    <li>Abstract Submission Deadline(OPTIONAL): September 2,  2024 </li>
+    <li>Full Paper Submission Deadline: September 9, 2024</li>
+    <li>Notification of Acceptance: October 7, 2024</li>
+    <li>Camera-ready Papers Due: November 4, 2024</li>
+    <li>Conference Dates: November 19-20, 2024</li>
+    </ul>
+    </p>
+<hr>
+<b style="font-size: 18px">Submission Process and Guidelines:</b>:
+All accepted papers will be published in the conference proceedings, part of the Springer Lecture Notes in Business Information Processing (LNBIP) series. 
 
 <b style="font-size: 18px" id="SubmissionFormats">Submission Formats</b><br>
 Submissions must conform to Springer’s LNBIP format and should not exceed 15 pages, including all text, figures, references, and appendices.
