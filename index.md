@@ -11,7 +11,7 @@ We are delighted to invite you to contribute to the 15th International Conferenc
 
 <hr>
 
-<b class="display-4" style="text-align: center;">Theme : Ethics, Equity, and Sustainability in Software Business </b>
+<b class="display-4" style="text-align: center;">Conference Theme : Ethics, Equity, and Sustainability in Software Business </b>
 
 The theme for ICSOB 2024 revolves around the critical and timely topics of ethics, equity, and sustainability within the software business sector. In an era where digital transformation is ubiquitous, it's imperative to consider the ethical implications and equitable practices, as they are intrinsically linked to the sustainability of software initiatives, vital to realizing social justice, human rights, and democracy. This conference will delve into these topics, offering a platform for discussing how they are shaping the future of software business.
 
@@ -51,6 +51,7 @@ The theme for ICSOB 2024 revolves around the critical and timely topics of ethic
   </ul> 
 
 We also anticipate a range of networking events and keynote speeches from leading figures in the field, providing attendees with valuable insights and collaboration opportunities.
+
 For detailed information on submission formats, guidelines, and the conference program, please visit our (<a href="https://icsob2024.github.io" target="_blank">conference website</a>).
 
 Join us in Utrecht for what promises to be an enlightening and engaging event, contributing to the critical discourse on ethics, equity, and sustainability in the software business.
