@@ -17,9 +17,8 @@ The theme for ICSOB 2024 revolves around the critical and timely topics of ethic
 
 <hr>
 
-<b> Theme : Ethics, Equity, and Sustainability in Software Business </b>
-
-        <ul style="list-style: none;">
+    <p><b>Topics of Interest, but not limited to:</b></p>
+    <ul style="list-style: none;">
             <li>Ethics in Software Product Management and Development</li>
             <li>Equity, Diversity and Inclusion in Software Ecosystems, Digital Services, Systems, and Digital Transformation</li>
             <li>Transparency and Trustability in Software Business</li>
@@ -61,15 +60,13 @@ The theme for ICSOB 2024 revolves around the critical and timely topics of ethic
     </p>
     </p>
 
-    <p class="lead">
-    <p><b>Posters, demos, and PhD Retreat:</b>
+    <p><b>Posters, demos, and PhD Retreat:</b></p>
     <ul style="list-style: none;">
     <li>Submission Deadline: September 2, 2024</li>
     <li>Notification of Acceptance: September 16, 2024</li>
     <li>Camera-ready Papers Due: September 30, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
-    </p>
-    </p>
+    
    
 </div>
