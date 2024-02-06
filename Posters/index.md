@@ -42,8 +42,20 @@ Demonstrations are intended to showcase software business-related topics through
 
 Proposals are submitted as extended abstracts. The page limit is four (4) pages, including references.
 
-Use the CEUR-ART one-column template for submissions. Templates are available here: http://ceur-ws.org/Vol-XXX/CEURART.zip (LaTeX), http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx (Word).
+Use the CEUR-ART one-column template for submissions. Templates are available <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip" target="_blank">(LaTeX)</a>, href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx" target="_blank">(Word)</a>.
 
-All proposals are submitted through EasyChair: https://easychair.org/conferences/?conf=icsob2024
+All proposals are submitted through <a href="https://easychair.org/conferences/?conf=icsob2024" target="_blank">EasyChair</a>.
 
 Poster and demo submissions will be peer-reviewed by two members of the Program Committee through a single-blind review process.
+
+<hr>
+<b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
+<p class="lead">
+    <p><b>Posters, demos, and PhD Retreat:</b></p>
+    <ul style="list-style: none;">
+    <li>Submission Deadline: September 2, 2024</li>
+    <li>Notification of Acceptance: September 16, 2024</li>
+    <li>Camera-ready Papers Due: September 30, 2024</li>
+    <li>Conference Dates: November 19-20, 2024</li>
+    </ul>
+</p>
