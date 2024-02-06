@@ -52,7 +52,7 @@ The theme for ICSOB 2024 revolves around the critical and timely topics of ethic
 
 We also anticipate a range of networking events and keynote speeches from leading figures in the field, providing attendees with valuable insights and collaboration opportunities.
 
-For detailed information on submission formats, guidelines, and the conference program, please visit our (<a href="https://icsob2024.github.io" target="_blank">conference website</a>).
+For detailed information on submission formats, guidelines, and the conference program, please visit our <a href="https://icsob2024.github.io" target="_blank">conference website</a>.
 
 Join us in Utrecht for what promises to be an enlightening and engaging event, contributing to the critical discourse on ethics, equity, and sustainability in the software business.
 
