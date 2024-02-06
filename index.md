@@ -15,8 +15,6 @@ We are delighted to invite you to contribute to the 15th International Conferenc
 
 The theme for ICSOB 2024 revolves around the critical and timely topics of ethics, equity, and sustainability within the software business sector. In an era where digital transformation is ubiquitous, it's imperative to consider the ethical implications and equitable practices, as they are intrinsically linked to the sustainability of software initiatives, vital to realizing social justice, human rights, and democracy. This conference will delve into these topics, offering a platform for discussing how they are shaping the future of software business.
 
-<hr>
-
 <b> Topics of Interest, but not limited to: </b>
 <ul style="list-style: none;">
             <li>Ethics in Software Product Management and Development</li>
