@@ -11,7 +11,6 @@ At least one author from each accepted poster or demo must register for the conf
 The best poster and demo will be recognized with an award during the main conference proceedings.
 <hr>
 
-
 <b style="font-size: 20px" id="poster">Poster</b>
 
 Posters are intended to stimulate face-to-face discussions among conference participants. Submissions may include:
@@ -28,15 +27,16 @@ If accepted, you are to create and print your own poster to bring to the confere
 Participants of the PhD retreat are especially encouraged to submit to the poster track to receive extended feedback from the conference community.
 <hr>
 
-<b style="font-size: 20px" id="demo">Demo</b>
+<b style="font-size: 20px" id="demo">Demos</b>
 
 Demonstrations are intended to showcase software business-related topics through:
-    <ul style="list-style: none;">
+
+<ul style="list-style: none;">
     <li>Practical implementations</li>
     <li>Working prototypes</li>
     <li>Interactive applications</li>
     <li>Live experiments</li>
-    </ul>
+</ul>
 
 <b> Submission Guidelines </b>
 
