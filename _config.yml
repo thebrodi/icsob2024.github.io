@@ -109,7 +109,7 @@ conference:
             relative_url: "/ResearchPapers"
           - name: PhD Retreat Submissions
             relative_url: "/PhDRetreatSubmissions"
-          - name: Posters
+          - name: Poster and Demo
             relative_url: "/Posters"
           - name: Awards
             relative_url: /Awards/
