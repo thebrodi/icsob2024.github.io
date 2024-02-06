@@ -31,16 +31,17 @@ The theme for ICSOB 2024 revolves around the critical and timely topics of ethic
             <li>Decision-making in Software Engineering (design decisions in software architecture, technology selection, ...)</li>
         </ul>   
 
-<hr>
+
 
 <b> Paper Submission Categories: </b>
   <ul style="list-style: none;">
       <li>Full Research Papers (up to 15 pages): Detailed studies and analyses of novel approaches in software business.</li>
-      <li>Short Position and Practice Papers (up to 6 pages): Industry insights, case studies, artefacts, and explorations of new areas.
+      <li>Short Position and Practice Papers (up to 6 pages): Industry insights, case studies, artifacts, and explorations of new areas.
 </li>
       <li>Posters and demos (up to 4 pages)</li>
   </ul>  
 <div>
+<hr>
     <h1 class="display-4" style="text-align: center;">
         Important Dates
     </h1>
@@ -51,7 +52,7 @@ The theme for ICSOB 2024 revolves around the critical and timely topics of ethic
     <ul style="list-style: none;">
     <li>Abstract Submission Deadline(OPTIONAL): September 2,  2024 </li>
     <li>Full Paper Submission Deadline: September 9, 2024</li>
-    <li>Notification of Acceptance : October 7, 2024</li>
+    <li>Notification of Acceptance: October 7, 2024</li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
