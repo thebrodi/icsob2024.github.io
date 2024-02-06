@@ -40,6 +40,15 @@ The theme for ICSOB 2024 revolves around the critical and timely topics of ethic
 </li>
       <li>Posters and demos (up to 4 pages)</li>
   </ul>  
+
+  <b> Special Tracks and Additional Opportunities: </b>
+  <ul style="list-style: none;">
+      <li>Workshop and Tutorial Proposals: We invite proposals for engaging and informative workshops and tutorials. The deadline for proposals is June 30, 2024.
+</li>
+      <li>Poster and Demo Track: A chance to present early-stage research, innovative ideas, and practical implementations. The submission deadline for this track is September 2, 2024.
+</li>
+      <li>PhD Retreat: A unique opportunity for PhD students to receive feedback on their research. Submissions for the PhD retreat are due by September 2, 2024.</li>
+  </ul> 
 <div>
 <hr>
     <h1 class="display-4" style="text-align: center;">
