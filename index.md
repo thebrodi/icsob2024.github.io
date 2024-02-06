@@ -35,19 +35,19 @@ The theme for ICSOB 2024 revolves around the critical and timely topics of ethic
 
 <b> Paper Submission Categories: </b>
   <ul style="list-style: none;">
-      <li>Full Research Papers (up to 15 pages): Detailed studies and analyses of novel approaches in software business.</li>
-      <li>Short Position and Practice Papers (up to 6 pages): Industry insights, case studies, artifacts, and explorations of new areas.
+      <li><b>Full Research Papers</b> (up to 15 pages): Detailed studies and analyses of novel approaches in software business.</li>
+      <li><b>Short Position and Practice Papers</b> (up to 6 pages): Industry insights, case studies, artifacts, and explorations of new areas.
 </li>
-      <li>Posters and demos (up to 4 pages)</li>
+      <li><b>Posters and demos</b> (up to 4 pages)</li>
   </ul>  
 
   <b> Special Tracks and Additional Opportunities: </b>
   <ul style="list-style: none;">
-      <li>Workshop and Tutorial Proposals: We invite proposals for engaging and informative workshops and tutorials. The deadline for proposals is June 30, 2024.
+      <li><b>Workshop and Tutorial Proposals</b>: We invite proposals for engaging and informative workshops and tutorials. The deadline for proposals is June 30, 2024.
 </li>
-      <li>Poster and Demo Track: A chance to present early-stage research, innovative ideas, and practical implementations. The submission deadline for this track is September 2, 2024.
+      <li><b>Poster and Demo Track</b>: A chance to present early-stage research, innovative ideas, and practical implementations. The submission deadline for this track is September 2, 2024.
 </li>
-      <li>PhD Retreat: A unique opportunity for PhD students to receive feedback on their research. Submissions for the PhD retreat are due by September 2, 2024.</li>
+      <li><b>PhD Retreat</b>: A unique opportunity for PhD students to receive feedback on their research. Submissions for the PhD retreat are due by September 2, 2024.</li>
   </ul> 
 <div>
 <hr>
