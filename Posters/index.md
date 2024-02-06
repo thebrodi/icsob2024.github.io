@@ -12,7 +12,7 @@ The best poster and demo will be recognized with an award during the main confer
 <hr>
 
 
-    <h1 class="display-3" style="text-align: center;">
+    <h1 class="display-4" style="text-align: center;">
         Poster
     </h1>
 
@@ -30,7 +30,7 @@ If accepted, you are to create and print your own poster to bring to the confere
 Participants of the PhD retreat are especially encouraged to submit to the poster track to receive extended feedback from the conference community.
 <hr>
 
-    <h1 class="display-3" style="text-align: center;">
+    <h1 class="display-4" style="text-align: center;">
         Demos
     </h1>
 Demonstrations are intended to showcase software business-related topics through:
