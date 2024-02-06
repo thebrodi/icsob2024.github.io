@@ -4,7 +4,7 @@ layout: importantdates
 
 <b style="font-size: 22px" id="CallForResearchPapers">Call for Research Paper Submissions</b>
 
-We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for original work describing novel approaches to Ethics, Equity, and Sustainability in Software Business. Submissions can be: (i) <b>Full Research Papers</b> (up to 15 pages) for detailed studies and analyses of novel approaches in the software business, (ii) <b>Short Position and Practice Papers</b> for industry insights, case studies, artifacts, and explorations of new areas. 
+We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for original work describing novel approaches to Ethics, Equity, and Sustainability in Software Business. Submissions can be: (i) <b>Full Research Papers</b> (up to 15 pages) for detailed studies and analyses of novel approaches in the software business, (ii) <b>Short Position and Practice Papers</b> for industry insights, case studies, artifacts, and explorations of new areas. All accepted papers will be published in the conference proceedings, part of the Springer Lecture Notes in Business Information Processing (LNBIP) series. 
 
 The topics that ICSOB welcomes, but not limited to, are listed below:
 
