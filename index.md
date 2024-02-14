@@ -7,7 +7,7 @@ layout: home
 
 <br>
 
-We are delighted to invite you to contribute to the 15th International Conference on Software Business (ICSOB 2024), to be held in the beautiful city of Utrecht, Netherlands, on November 19-20, 2024. This conference aims to foster a vibrant community of researchers and practitioners to exchange ideas and findings on the rapidly evolving field of software business.
+We are delighted to invite you to contribute to the 15th International Conference on Software Business (ICSOB 2024), to be held in the beautiful city of Utrecht, Netherlands, on November 18-20, 2024. This conference aims to foster a vibrant community of researchers and practitioners to exchange ideas and findings on the rapidly evolving field of software business.
 
 <hr>
 
