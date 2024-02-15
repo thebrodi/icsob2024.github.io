@@ -51,7 +51,7 @@ Poster and demo submissions will be peer-reviewed by two members of the Program 
 <hr>
 <b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
 <p class="lead">
-    <p><b>Posters, demos, and PhD Retreat:</b></p>
+    <p><b>Posters and demos:</b></p>
     <ul style="list-style: none;">
     <li>Submission Deadline: September 2, 2024</li>
     <li>Notification of Acceptance: September 16, 2024</li>
