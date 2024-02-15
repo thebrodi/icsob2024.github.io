@@ -51,25 +51,26 @@ Mid-stage PhD submission:  This category refers to  PhD students who have alread
 The PhD Retreat submission must consist of two elements:
 <br>
 
-A letter from the PhD student’s supervisor. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (rps@uniriotec.br, dron.khanna@unibz.it and e.elshan@vu.nl); and A short paper that describes the PhD student’s thesis. 
+<b>A letter from the PhD student’s supervisor</b>. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href="mailto:rps@uniriotec.br"></a>, <a href="mailto:dron.khanna@unibz.it"></a>, and <a href="mailto:e.elshan@vu.nl"></a>); and <b>A short paper that describes the PhD student’s thesis</b>. The short paper should not be anonymous and should meet the following requirements:
 
 <br>
-The short paper should not be anonymous and should meet the following requirements:
-Be authored only by the student and his/her supervisors;
-Clearly state the problem to be addressed in the student’s thesis, and why this problem is important to be tackled (motivation);
+<ul style="list-style: none;">
+  <li>Be authored only by the student and his/her supervisors</li>
+  <li>Clearly state the problem to be addressed in the student’s thesis, and why this problem is important to be tackled (motivation);</li>
+  <li>Discuss related work, and the knowledge gap in the literature that has been addressed in the thesis;</li>
+    <li>Describe the research method and the evaluation plan of the results;</li>
+    <li>Include the planned timeline for thesis completion;</li>
+    <li>Present the results achieved so far (requested for the mid-stage PhD submission only);</li>
+    <li>Explain the expected contributions of the thesis.</li>
+</ul>
 
 <br>
-Discuss related work, and the knowledge gap in the literature that has been addressed in the thesis;
-Describe the research method and the evaluation plan of the results;
-Include the planned timeline for thesis completion;
-Present the results achieved so far (requested for the mid-stage PhD submission only);
-Explain the expected contributions of the thesis.
 
 <br>
 To address the items above, we suggest the following structure: Problem Definition, Knowledge Gap, Research Method, Timeline, Preliminary Results (if any), and Expected Contributions. All submissions must be written in English.
 
 <br>
-Students interested in participating in the PhD Retreat must submit a short paper (5-9 pages) using the CEUR-ART one-column template which is available here: <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip"></a>(LaTeX) or <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx)"></a>(Word). The accepted PhD Retreat submissions will be offered for publication by CEUR-WS.org (open access) in the ICSOB 2024 Companion Proceedings.
+Students interested in participating in the PhD Retreat must submit a short paper (5-9 pages) using the CEUR-ART one-column template which is available here: <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip" target="_blank">http://ceur-ws.org/Vol-XXX/CEURART.zip</a>(LaTeX) or <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx" target="_blank">http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a>(Word). The accepted PhD Retreat submissions will be offered for publication by CEUR-WS.org (open access) in the ICSOB 2024 Companion Proceedings.
 
 <hr>
 <b style="font-size: 18px" id="Reviewprocesss">Review Process</b><br>
@@ -80,9 +81,9 @@ All submissions will be peer-reviewed by the Program Committee members. The main
 <b style="font-size: 18px" id="Presentation">Presentation</b><br>
 
 Authors of the accepted submissions will have the opportunity to present their work in the PhD Retreat, and to have camera-ready of their papers published in the post-conference proceedings. The camera-ready versions will be sent after the conference (Deadline: 2024), so that participants have the chance to polish their papers based on the feedback they got from the conference. 
-
+<br>
 <br>
 Authors will present their research in the conference. Each participant will have 10 to 15 minutes to present plus 10 to 15 minutes for answering questions. There will be networking breaks after blocks of  presentations in which participants can get feedback and comments about their research in a more relaxed Q&A session. After running the presentations, a thesis-design workshop session with experts who will be acting as mentors for the participants during the session is planned.   
-
+<br>
 <br>
 In addition, authors will be invited to present their work at the poster track of the main conference to get more feedback from the conference attendees. This poster track will be an additional (optional) choice for the PhD Retreat participants, without the need to submit their research to the poster track. 
