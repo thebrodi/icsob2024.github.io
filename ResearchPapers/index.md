@@ -4,6 +4,8 @@ layout: importantdates
 
 <b style="font-size: 22px" id="CallForResearchPapers">Call for Research Paper Submissions</b>
 
+The theme for ICSOB 2024 revolves around the critical and timely topics of ethics, equity, and sustainability within the software business sector. In an era where digital transformation is ubiquitous, it's imperative to consider the ethical implications and equitable practices, as they are intrinsically linked to the sustainability of software initiatives, vital to realizing social justice, human rights, and democracy. This conference will delve into these topics, offering a platform for discussing how they are shaping the future of software business.
+
 We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for original work describing novel approaches to Ethics, Equity, and Sustainability in Software Business. Submissions can be: (i) <b>Full Research Papers</b> (up to 15 pages) for detailed studies and analyses of novel approaches in the software business, (ii) <b>Short Position and Practice Papers</b> for industry insights, case studies, artifacts, and explorations of new areas. All accepted papers will be published in the conference proceedings, part of the Springer Lecture Notes in Business Information Processing (LNBIP) series. 
 
 The topics that ICSOB welcomes, but not limited to, are listed below:
