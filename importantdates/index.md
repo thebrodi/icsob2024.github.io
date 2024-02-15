@@ -36,4 +36,3 @@ layout: importantdates
     <li>Conference Dates: November 18, 2024</li>
     </ul>
 </div>
-</div>
