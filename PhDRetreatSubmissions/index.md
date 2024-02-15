@@ -51,7 +51,7 @@ Mid-stage PhD submission:  This category refers to  PhD students who have alread
 The PhD Retreat submission must consist of two elements:
 <br>
 
-<b>A letter from the PhD student’s supervisor</b>. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href="mailto:rps@uniriotec.br"></a>, <a href="mailto:dron.khanna@unibz.it"></a>, and <a href="mailto:e.elshan@vu.nl"></a>); and <b>A short paper that describes the PhD student’s thesis</b>. The short paper should not be anonymous and should meet the following requirements:
+<b>A letter from the PhD student’s supervisor</b>. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href= "mailto:rps@uniriotec.br" target="_blank">rps@uniriotec.br</a>, <a href= "mailto:dron.khanna@unibz.it" target="_blank">dron.khanna@unibz.it</a>, and <a href= "mailto:e.elshan@vu.nl" target="_blank">e.elshan@vu.nl</a>); and <b>A short paper that describes the PhD student’s thesis</b>. The short paper should not be anonymous and should meet the following requirements:
 
 <br>
 <ul style="list-style: none;">
