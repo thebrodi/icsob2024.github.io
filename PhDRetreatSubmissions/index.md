@@ -5,7 +5,7 @@ layout: importantdates
 
 <b style="font-size: 22px" id="CallForResearchPapers">PhD Retreat – Call for Submissions </b>
 
-The ICSOB 2024 PhD Retreat is an exciting one-day event that will happen on the Venue <xxx>. The retreat is designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.
+The ICSOB 2024 PhD Retreat is an exciting one-day event that will happen at a special location (to be defined). The retreat is designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.
 
 <hr> 
 <b>Program:</b> Coming very soon
@@ -13,7 +13,7 @@ The ICSOB 2024 PhD Retreat is an exciting one-day event that will happen on the 
 
 <b>Target Audience:</b>
 
-PhD students should consider participating in this PhD Retreat if they have already identified a topic to focus their PhD thesis on and have a proposed methodological plan (early-stage PhD students). The PhD Retreat also invites PhD students who are in the mid-stage progress of their thesis (mid-stage PhD students). However, the PhD Retreat is NOT suitable for PhD students at the end of their PhD (? are we sure?)  and who have completed all of their research activities.
+PhD students should consider participating in this PhD Retreat if they have already identified a topic to focus their PhD thesis on and have a proposed methodological plan (early-stage PhD students). The PhD Retreat also invites PhD students who are in the mid-stage progress of their thesis (mid-stage PhD students). However, the PhD Retreat is NOT suitable for PhD students at the end of their PhD and who have completed all of their research activities.
 
 The main goals of the PhD Retreat are to provide an opportunity for PhD students to:
 
@@ -25,15 +25,17 @@ The main goals of the PhD Retreat are to provide an opportunity for PhD students
   <li> Build your research network and have fun! </li>
 </ul>
 
-The PhD Retreat will take place at a beautiful location on  Venue <xxx>E, which is <xxx> minutes from the Utrecht center. Therefore, in addition to the technical sessions, the PhD Retreat participants will have the opportunity to explore the  <xxx>, and explore the tranquility they have to offer.
+The PhD Retreat will take place at a special location (to be defined). Therefore, in addition to the technical sessions, the PhD Retreat participants will have the opportunity to explore the tranquility they have to offer.
 
 <hr>
 <b style="font-size: 18px" id="SubmissionCategories">Submission Categories</b><br>
 
 We welcome two categories of submission:
 <br>
-Early-stage PhD submission: This category refers to PhD students who have an initial idea about their research topic and design, and are looking for early feedback on how to proceed with their PhD thesis;
-Mid-stage PhD submission:  This category refers to  PhD students who have already started the implementation of their research with some preliminary results, and are looking for feedback before completing their PhD thesis.   
+Early-stage PhD submission: TThis category refers to PhD students who have an initial idea about their research topic and design, and are looking for early feedback on how to proceed with their PhD thesis;
+<br>
+
+Mid-stage PhD submission: This category refers to PhD students who have already started the implementation of their research with some preliminary results, and are looking for feedback before completing their PhD thesis.  
 
 <b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
 <p class="lead">
@@ -51,11 +53,14 @@ Mid-stage PhD submission:  This category refers to  PhD students who have alread
 The PhD Retreat submission must consist of two elements:
 <br>
 
-<b>A letter from the PhD student’s supervisor</b>. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href= "mailto:rps@uniriotec.br" target="_blank">rps@uniriotec.br</a>, <a href= "mailto:dron.khanna@unibz.it" target="_blank">dron.khanna@unibz.it</a>, and <a href= "mailto:e.elshan@vu.nl" target="_blank">e.elshan@vu.nl</a>); and <b>A short paper that describes the PhD student’s thesis</b>. The short paper should not be anonymous and should meet the following requirements:
+<b>A letter from the PhD student’s supervisor. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href= "mailto:rps@uniriotec.br" target="_blank">rps@uniriotec.br</a>, <a href= "mailto:dron.khanna@unibz.it" target="_blank">dron.khanna@unibz.it</a>, and <a href= "mailto:e.elshan@vu.nl" target="_blank">e.elshan@vu.nl</a>); and 
+<br>
+
+<b>A short paper that describes the PhD student’s thesis. The short paper should not be anonymous and should meet the following requirements:
 
 <br>
 <ul style="list-style: none;">
-  <li>Be authored only by the student and his/her supervisors</li>
+  <li>Be authored only by the student and his/her supervisors;</li>
   <li>Clearly state the problem to be addressed in the student’s thesis, and why this problem is important to be tackled (motivation);</li>
   <li>Discuss related work, and the knowledge gap in the literature that has been addressed in the thesis;</li>
     <li>Describe the research method and the evaluation plan of the results;</li>
