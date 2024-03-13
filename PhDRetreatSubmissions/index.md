@@ -32,7 +32,7 @@ The PhD Retreat will take place at a special location (to be defined). Therefore
 
 We welcome two categories of submission:
 <br>
-Early-stage PhD submission: TThis category refers to PhD students who have an initial idea about their research topic and design, and are looking for early feedback on how to proceed with their PhD thesis;
+Early-stage PhD submission: This category refers to PhD students who have an initial idea about their research topic and design, and are looking for early feedback on how to proceed with their PhD thesis;
 <br>
 
 Mid-stage PhD submission: This category refers to PhD students who have already started the implementation of their research with some preliminary results, and are looking for feedback before completing their PhD thesis.  
