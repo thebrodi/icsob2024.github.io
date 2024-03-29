@@ -208,7 +208,7 @@ layout: organisation
         <div style="margin-top: 70px;">
             <h3>Antti Knutas</h3>
             <br>
-           LUT University, Finland
+           Lappeenranta-Lahti University of Technology, Finland
         </div>
     </div>
     </div>
