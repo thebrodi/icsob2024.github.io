@@ -11,14 +11,35 @@ layout: location
     <p>This conference will be held in Winkel van Sinkel (address is Oudegracht 158, 3511 AZ Utrecht). It is 600 metres from the city centre, which can be reached on foot in 9 minutes or by bus 4, 55, 77, 8.
     </p>
 
-
-
-        <img src="/assets/images/L0.jpg" alt="" class="center" style="max-width: 100%;
-        height: auto; width: 600px;"></a>
-                <img src="/assets/images/L1.jpg" alt="" class="center" style="max-width: 100%;
-        height: auto; width: 600px;"></a>
-                <img src="/assets/images/L2.jpg" alt="" class="center" style="max-width: 100%;
-        height: auto; width: 600px;"></a>
+<div>
+    <h1 class="display-5" style="text-align: center;">
+        Venue
+    </h1>
+    <figure>
+        <img src="/assets/images/L0.jpg" alt="" style="max-width: 100%;
+        height: auto;">
+        <figcaption><a href="https://dewinkelvansinkel.nl/" target="_blank">Reception Venue</a> 
+    </figure>  
+<hr>
+    <h1 class="display-5" style="text-align: center;">
+        PhD Retreat Venue 
+    </h1>
+    <figure>
+        <img src="/assets/images/L1.png" alt="" style="max-width: 100%;
+        height: auto;">
+        <figcaption><a href="https://dewinkelvansinkel.nl/" target="_blank">PhD Retreat Venue</a>
+    </figure>
+    <hr>
+    <h1 class="display-5" style="text-align: center;">
+        Conference Venue
+    </h1>
+    <figure>
+        <img src="/assets/images/L2.png" alt="" style="max-width: 100%;
+        height: auto;">
+        <figcaption><a href="https://dewinkelvansinkel.nl/" target="_blank">Conference Venue</a>
+    </figure>
+            
+    </div>
 
 
     
