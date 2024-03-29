@@ -17,21 +17,6 @@ The International Conference on Software Business (ICSOB) 2024 aims to redefine 
 
 The Conference holds societal impact and international importance as it tackles the pivotal challenges of managing and innovating within software-intensive businesses in our rapidly evolving digital landscape. In an era marked by relentless technological advancements and an insatiable demand for innovation, ICSOB 2024 stands as a critical platform for addressing the implications of digital transformation on society. By fostering a dialogue on ethical, equitable, and sustainable practices in the software business, the conference directly contributes to shaping a future where technology not only advances economic growth but also promotes social justice, human rights, and environmental stewardship. The conference's emphasis on inclusivity, diversity, and equity in software ecosystems resonates with global efforts to bridge digital divides and ensure that the benefits of digital transformation are accessible to all, thereby reinforcing its international significance. ICSOB 2024's call for both research and industry papers underscores its commitment to bridging the gap between academic inquiry and practical application, ensuring that the insights generated have real-world relevance and impact. By highlighting industry case studies and pioneering research in software-intensive business, the conference acts as a beacon for international collaboration, knowledge exchange, and innovation, setting a precedent for responsible and inclusive growth in the digital age.
 
-<b> Topics of Interest, but not limited to: </b>
-<ul style="list-style: none;">
-            <li>Ethics in Software Product Management and Development</li>
-            <li>Equity, Diversity and Inclusion in Software Ecosystems, Digital Services, Systems, and Digital Transformation</li>
-            <li>Transparency and Trustability in Software Business</li>
-            <li>Ethical Issues in Emerging Software Technologies (e.g., Blockchain, Generative AI, …)</li>
-            <li>Emerging Technologies and Sustainability in Software Business</li>
-            <li>Sustainable Practices in Software Ecosystems, Platforms, and Business Models</li>
-            <li>Ethical Considerations in Software Business Development</li>
-            <li>Startups, Entrepreneurship, and New Ventures with a Focus on Equity and Sustainability</li>
-            <li>Human-Centered Design and Ethical Software Engineering</li>
-            <li>Empowering Equality and Inclusivity in Software Development</li>
-            <li>Sustainability Metrics and Measurement</li>
-            <li>Decision-making in Software Engineering (design decisions in software architecture, technology selection, ...)</li>
-        </ul>   
 
 <div>
 <hr>
