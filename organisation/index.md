@@ -55,11 +55,11 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/TBD.png" alt=""
+        <img src="/assets/images/organisation/Efi.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>TBD</h3>
+            <h3>Efi Papatheocharous</h3>
             <br>
             TBD
         </div>
@@ -156,17 +156,17 @@ layout: organisation
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Local Chair
+            Social Media Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/TBD.png" alt=""
+        <img src="/assets/images/organisation/Fernanda.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>TBD</h3>
+            <h3>Fernanda Madeiral</h3>
             <br>
             TBD
         </div>
@@ -174,7 +174,8 @@ layout: organisation
     </div>
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
- <h1 class="display-5">
+ <!--
+   <h1 class="display-5">
            Awards Chair
         </h1>
     <div style="display: flex;">
@@ -192,6 +193,7 @@ layout: organisation
     </div>
     </div>
         <hr class="my-4">
+   -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
             Special Issue Chair
@@ -200,11 +202,11 @@ layout: organisation
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
-        <img src="/assets/images/organisation/TBD.png" alt=""
+        <img src="/assets/images/organisation/Antti.png" alt=""
             style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
         </p>
         <div style="margin-top: 70px;">
-            <h3>TBD</h3>
+            <h3>Antti Knutas</h3>
             <br>
            TBD
         </div>
