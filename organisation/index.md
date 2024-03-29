@@ -61,7 +61,7 @@ layout: organisation
         <div style="margin-top: 70px;">
             <h3>Efi Papatheocharous</h3>
             <br>
-            TBD
+            RISE SICS, Sweden
         </div>
         </div>
     </div>
@@ -168,7 +168,7 @@ layout: organisation
         <div style="margin-top: 70px;">
             <h3>Fernanda Madeiral</h3>
             <br>
-            TBD
+            Vrije Universiteit Amsterdam, The Netherlands
         </div>
     </div>
     </div>
@@ -208,7 +208,7 @@ layout: organisation
         <div style="margin-top: 70px;">
             <h3>Antti Knutas</h3>
             <br>
-           TBD
+           LUT University, Finland
         </div>
     </div>
     </div>
