@@ -129,8 +129,6 @@ conference:
           - name: Registration
             relative_url: /registration/
           - name: Venue
-            relative_url: /venue/
-          - name: Travel information
             relative_url: /location/
 
 
