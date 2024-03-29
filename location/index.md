@@ -16,9 +16,9 @@ layout: location
         Venue
     </h1>
     <figure>
-        <img src="/assets/images/L0.jpg" alt="" style="max-width: 100%;
+        <img src="/assets/images/L0.png" alt="" style="max-width: 100%;
         height: auto;">
-        <figcaption><a href="https://dewinkelvansinkel.nl/" target="_blank">Reception Venue</a> 
+        
     </figure>  
 <hr>
     <h1 class="display-5" style="text-align: center;">
@@ -27,7 +27,7 @@ layout: location
     <figure>
         <img src="/assets/images/L1.png" alt="" style="max-width: 100%;
         height: auto;">
-        <figcaption><a href="https://dewinkelvansinkel.nl/" target="_blank">PhD Retreat Venue</a>
+        <
     </figure>
     <hr>
     <h1 class="display-5" style="text-align: center;">
@@ -36,7 +36,7 @@ layout: location
     <figure>
         <img src="/assets/images/L2.png" alt="" style="max-width: 100%;
         height: auto;">
-        <figcaption><a href="https://dewinkelvansinkel.nl/" target="_blank">Conference Venue</a>
+        
     </figure>
             
     </div>
