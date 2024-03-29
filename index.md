@@ -53,7 +53,8 @@ The Conference holds societal impact and international importance as it tackles 
     <li>Conference Dates: November 18, 2024</li>
     </ul>
 
-      <b> Special Tracks and Additional Opportunities: </b>
+<!--      
+<b> Special Tracks and Additional Opportunities: </b>
   <ul style="list-style: none;">
       <li><b>Workshop and Tutorial Proposals</b>: We invite proposals for engaging and informative workshops and tutorials. The deadline for proposals is June 30, 2024.
 </li>
@@ -61,5 +62,6 @@ The Conference holds societal impact and international importance as it tackles 
 </li>
       <li><b>PhD Retreat</b>: A unique opportunity for PhD students to receive feedback on their research. Submissions for the PhD retreat are due by September 2, 2024.</li>
   </ul> 
+-->
 
 </div>
