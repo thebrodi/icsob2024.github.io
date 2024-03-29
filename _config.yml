@@ -17,7 +17,7 @@ title: ICSOB 2024
 email: your-email@example.com
 description: The International Conference on Software Business (ICSOB) attracts both researchers and practitioners who are concerned with software-intensive business in different ways, and brings them together to share their findings and experiences from the field of software-intensive business.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://icsob2022.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://icsob2024.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
@@ -117,18 +117,21 @@ conference:
         relative_url: /program/
       - name: Important Dates
         relative_url: /importantdates/
-      - name: Registration
-        relative_url: /registration/
+
       - name: Organisation
         menu:
           - name: Organising Committee
             relative_url: /organisation/
           - name: Program Committee
             relative_url: /programCommittee/
-      - name: Venue
-        relative_url: /venue/
-      - name: Travel information
-        relative_url: /location/
+      - name: Attending
+        menu:
+          - name: Registration
+            relative_url: /registration/
+          - name: Venue
+            relative_url: /venue/
+          - name: Travel information
+            relative_url: /location/
 
 
   # Main landing page
