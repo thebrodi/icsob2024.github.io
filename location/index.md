@@ -14,11 +14,11 @@ layout: location
 
 
         <img src="/assets/images/L0.jpg" alt="" class="center" style="max-width: 100%;
-        height: auto; width: 600px;">
+        height: auto; width: 600px;"></a>
                 <img src="/assets/images/L1.jpg" alt="" class="center" style="max-width: 100%;
-        height: auto; width: 600px;">
+        height: auto; width: 600px;"></a>
                 <img src="/assets/images/L2.jpg" alt="" class="center" style="max-width: 100%;
-        height: auto; width: 600px;">
+        height: auto; width: 600px;"></a>
 
 
     
