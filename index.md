@@ -21,7 +21,7 @@ The Conference holds societal impact and international importance as it tackles 
 <div>
 <hr>
 
-        Important Dates
+<b>  Important Dates </b>       
 
       <b>Note: all the deadlines are AoE (<b><a href="https://www.worldtimeserver.com/time-zones/aoe/#:~:text=Anywhere%20on%20Earth%20or%20AoE,the%20Pacific%20all%20year%20round." target="_blank">Anywhere on Earth</a></b>) time. AoE time is 12 hours behind Coordinated Universal Time (UTC).</b>
     <br>
