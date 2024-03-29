@@ -13,7 +13,7 @@ layout: location
 
 <div>
     <h1 class="display-5" style="text-align: center;">
-        Venue
+        Reception Venue
     </h1>
     <figure>
         <img src="/assets/images/L0.png" alt="" style="max-width: 100%;
@@ -27,7 +27,7 @@ layout: location
     <figure>
         <img src="/assets/images/L1.png" alt="" style="max-width: 100%;
         height: auto;">
-        <
+       
     </figure>
     <hr>
     <h1 class="display-5" style="text-align: center;">
