@@ -128,7 +128,7 @@ conference:
         menu:
           - name: Registration
             relative_url: /registration/
-          - name: Venue
+          - name: Location
             relative_url: /location/
 
 
