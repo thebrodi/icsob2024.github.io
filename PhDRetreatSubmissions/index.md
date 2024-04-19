@@ -41,9 +41,9 @@ Mid-stage PhD submission: This category refers to PhD students who have already 
 <p class="lead">
     <p><b>Full Research Papers, Short Position and Practice Papers:</b>
     <ul style="list-style: none;">
-    <li>Deadline for submission: September 9, 2024</li>
-    <li>Notification of Acceptance: October 7, 2024</li>
-    <li>Camera-ready Papers Due: November 4, 2024</li>
+    <li>Deadline for submission: September 2, 2024</li>
+    <li>Notification of Acceptance: September 16, 2024</li>
+    <li>Camera-ready Papers Due: September 30, 2024</li>
     <li>Conference Dates: November 18, 2024</li>
     </ul>
 </p>
