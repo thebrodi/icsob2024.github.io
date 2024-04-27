@@ -63,7 +63,7 @@ Each paper will be reviewed by at least three reviewers. Accepted papers will be
 
 <b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
 <p class="lead">
-    <p><b>Full Research Papers, Short Position and Practice Papers:</b>
+    <p><b>Research Papers:</b>
     <ul style="list-style: none;">
   <li>Abstract Submission Deadline: September 2, 2024 (AoE) </li>
     <li>Full Paper Submission Deadline: September 9, 2024 (AoE)</li>
