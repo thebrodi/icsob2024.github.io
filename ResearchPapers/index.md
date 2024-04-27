@@ -65,10 +65,17 @@ Each paper will be reviewed by at least three reviewers. Accepted papers will be
 <p class="lead">
     <p><b>Full Research Papers, Short Position and Practice Papers:</b>
     <ul style="list-style: none;">
-    <li>Abstract Submission Deadline(OPTIONAL): September 2,  2024 </li>
-    <li>Full Paper Submission Deadline: September 9, 2024</li>
+  <li>Abstract Submission Deadline: September 2, 2024 (AoE) </li>
+    <li>Full Paper Submission Deadline: September 9, 2024 (AoE)</li>
     <li>Notification of Acceptance: October 7, 2024</li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
+    </ul>
+    
+    <p><b>Short Position and Practice Papers:</b></p>
+    <ul style="list-style: none;">
+    <li>Submission Deadline: October 14, 2024 (AoE)</li>
+    <li>Notification of Acceptance: October 28, 2024</li>
+    <li>Camera-ready Papers Due: November 4, 2024</li>
     </ul>
     </p>
