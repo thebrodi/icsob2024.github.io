@@ -8,7 +8,18 @@ layout: importantdates
 The ICSOB 2024 PhD Retreat is an exciting one-day event that will happen at a special location (to be defined). The retreat is designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.
 
 <hr> 
-<b>Program:</b> Coming very soon
+<b>Program:</b> 
+<ul style="list-style: none;">
+  <li> 09:30-10:30 - Session I </li>
+  <li> 10:30-11:00 - Morning Coffee </li>
+  <li> 11:00-12:00 - Session II </li>
+  <li> 12:00-13:00 - Lunch </li>
+  <li> 13:00-14:00 - Session III </li>
+  <li> 14:00-15:00 - Afternoon Coffee</li>
+  <li> 15:00-16:00 -  Session IV </li>
+  <li> 16:00-16:40 - Two tracks (Motivational Talk-Small discussion session & Fang's PHD Defense) </li>
+  <li> 16:40-17:00 -  PhD Retreat Closing </li>
+</ul>
 <hr>
 
 <b>Target Audience:</b>
@@ -25,7 +36,7 @@ The main goals of the PhD Retreat are to provide an opportunity for PhD students
   <li> Build your research network and have fun! </li>
 </ul>
 
-The PhD Retreat will take place at a special location (to be defined). Therefore, in addition to the technical sessions, the PhD Retreat participants will have the opportunity to explore the tranquility they have to offer.
+The PhD Retreat will take place at a special location: Winkel van Sinkel (address is Oudegracht 158, 3511 AZ Utrecht), which is 600 meters from the Utrecht city center. Therefore, in addition to the technical sessions, the PhD Retreat participants will have the opportunity to explore the tranquility they have to offer.
 
 <hr>
 <b style="font-size: 18px" id="SubmissionCategories">Submission Categories</b><br>
@@ -39,12 +50,11 @@ Mid-stage PhD submission: This category refers to PhD students who have already 
 
 <b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
 <p class="lead">
-    <p><b>Full Research Papers, Short Position and Practice Papers:</b>
+   <p><b>PhD Retreat:</b></p>
     <ul style="list-style: none;">
-    <li>Deadline for submission: September 2, 2024</li>
+    <li>Submission Deadline: September 2, 2024 (AoE)</li>
     <li>Notification of Acceptance: September 16, 2024</li>
     <li>Camera-ready Papers Due: September 30, 2024</li>
-    <li>Conference Dates: November 18, 2024</li>
     </ul>
 </p>
 
@@ -85,10 +95,10 @@ All submissions will be peer-reviewed by the Program Committee members. The main
 <hr>
 <b style="font-size: 18px" id="Presentation">Presentation</b><br>
 
-Authors of the accepted submissions will have the opportunity to present their work in the PhD Retreat, and to have camera-ready of their papers published in the post-conference proceedings. The camera-ready versions will be sent after the conference (Deadline: 2024), so that participants have the chance to polish their papers based on the feedback they got from the conference. 
+Authors of the accepted submissions will have the opportunity to present their work in the PhD Retreat, and to have camera-ready of their papers published in the post-conference proceedings. The camera-ready versions will be sent after the conference (Deadline: November 20, 2024), so that participants have the chance to polish their papers based on the feedback they got from the conference. 
 <br>
 <br>
-Authors will present their research in the conference. Each participant will have 10 to 15 minutes to present plus 10 to 15 minutes for answering questions. There will be networking breaks after blocks of  presentations in which participants can get feedback and comments about their research in a more relaxed Q&A session. After running the presentations, a thesis-design workshop session with experts who will be acting as mentors for the participants during the session is planned.   
+Authors will present their research at the conference. Each participant will have 10 to 15 minutes to present plus 10 to 15 minutes for answering questions. There will be networking breaks after blocks of  presentations in which participants can get feedback and comments about their research in a more relaxed Q&A session. After running the presentations, a thesis-design workshop session with experts who will be acting as mentors for the participants during the session is planned.   
 <br>
 <br>
 In addition, authors will be invited to present their work at the poster track of the main conference to get more feedback from the conference attendees. This poster track will be an additional (optional) choice for the PhD Retreat participants, without the need to submit their research to the poster track. 
