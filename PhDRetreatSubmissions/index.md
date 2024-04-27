@@ -17,7 +17,7 @@ The ICSOB 2024 PhD Retreat is an exciting one-day event that will happen at a sp
   <li> 13:00-14:00 - Session III </li>
   <li> 14:00-15:00 - Afternoon Coffee</li>
   <li> 15:00-16:00 -  Session IV </li>
-  <li> 16:00-16:40 - Two tracks (Motivational Talk-Small discussion session & Fang's PHD Defense) </li>
+  <li> 16:00-16:40 - Two tracks </li>
   <li> 16:40-17:00 -  PhD Retreat Closing </li>
 </ul>
 <hr>
