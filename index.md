@@ -28,7 +28,7 @@ The Conference holds societal impact and international importance as it tackles 
     <p class="lead">
     <p><b>Research Papers:</b>
     <ul style="list-style: none;">
-    <li>Abstract Submission Deadline(OPTIONAL): September 2, 2024 (AoE) </li>
+    <li>Abstract Submission Deadline: September 2, 2024 (AoE) </li>
     <li>Full Paper Submission Deadline: September 9, 2024 (AoE)</li>
     <li>Notification of Acceptance: October 7, 2024</li>
     <li>Camera-ready Papers Due: November 4, 2024</li>
@@ -42,7 +42,7 @@ The Conference holds societal impact and international importance as it tackles 
     <li>Camera-ready Papers Due: November 4, 2024</li>
     </ul>
 
-    <p><b>Posters and demos:</b></p>
+    <p><b>Poster and Demo Track:</b></p>
     <ul style="list-style: none;">
     <li>Submission Deadline: October 14, 2024 (AoE)</li>
     <li>Notification of Acceptance: October 21, 2024</li>
