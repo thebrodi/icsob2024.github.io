@@ -41,4 +41,3 @@ layout: importantdates
     <li>Camera-ready Papers Due: December 9, 2024</li>
     <li>Conference Dates: November 19-20, 2024</li>
     </ul>
-</div>
