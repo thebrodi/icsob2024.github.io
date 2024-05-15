@@ -52,9 +52,10 @@ We welcome two categories of submission:
 <p class="lead">
    <p><b>PhD Retreat:</b></p>
     <ul style="list-style: none;">
-    <li>Submission Deadline: September 2, 2024 (AoE)</li>
-    <li>Notification of Acceptance: September 16, 2024</li>
-    <li>Camera-ready Papers Due: September 30, 2024</li>
+    <li>Submission Deadline: October 21, 2024 (AoE)</li>
+    <li>Notification of Acceptance: October 28, 2024</li>
+    <li>Camera-ready Papers Due: December 9, 2024</li>
+    <li>Conference Dates: November 19-20, 2024</li>
     </ul>
 </p>
 
