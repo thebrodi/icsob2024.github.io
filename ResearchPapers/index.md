@@ -59,7 +59,7 @@ Information about the Springer LNBIP format can be found <a href="https://www.sp
 
 Each paper will be reviewed by at least three reviewers. Accepted papers will be presented at ICSOB ’24 and published in the conference proceedings, which is published in the Springer Lecture Notes in Business Information Processing (LNBIP).
 
-<b font color="#810a0a">The best papers submitted to ICSOB will be invited for a Q1 Journal special issue, with the theme Software and Society: Ethics, Equity, and Sustainability in Software.</b><br>
+<b><font color="#810a0a">The best papers submitted to ICSOB will be invited for a Q1 Journal special issue, with the theme Software and Society: Ethics, Equity, and Sustainability in Software.</font> </b><br>
 
 <hr>
 
