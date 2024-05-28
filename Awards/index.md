@@ -7,7 +7,7 @@ layout: importantdates
 The awards are given to the most outstanding researchers of the conference under four categories. We will include various categories of awards related to publishing research papers as follows:
 
 <br>
-<p class="space"> and </p>
+<p class="space"> </p>
  
     <p><b>10 year/ Lifetime Achievement Award:</b></p>
     <ul style="list-style: none;">
